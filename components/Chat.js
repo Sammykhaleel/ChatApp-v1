@@ -34,14 +34,14 @@ export default class Chat extends Component {
 
     if (!firebase.apps.length) {
       firebase.initializeApp({
-        apiKey: "AIzaSyBlBcdKTOaa2mubEYNJsFUT9fKW4ctCcpw",
-        authDomain: "test-86da3.firebaseapp.com",
-        databaseURL: "https://test-86da3.firebaseio.com",
-        projectId: "test-86da3",
-        storageBucket: "test-86da3.appspot.com",
-        messagingSenderId: "23556318542",
-        appId: "1:23556318542:web:1f8ec9c0e000168b096a1f",
-        measurementId: "G-S046CXYPN0",
+        apiKey: "AIzaSyCVSLGXX7Te3NAPhG-jYbUe-8UPxNUeexM",
+        authDomain: "chatapp-b6157.firebaseapp.com",
+        databaseURL: "https://chatapp-b6157.firebaseio.com",
+        projectId: "chatapp-b6157",
+        storageBucket: "chatapp-b6157.appspot.com",
+        messagingSenderId: "828054549169",
+        appId: "1:828054549169:web:85233346327d0c638aa890",
+        measurementId: "G-2Q62Y91C7E",
       });
     }
 
